@@ -4669,5 +4669,74 @@
       "Circulatory System",
       "Reproductive System"
     ]
+  },
+  "12_Withania_somnifera": {
+    "id": 12,
+    "class_name": "12_Withania_somnifera",
+    "botanical_name": "Withania somnifera",
+    "sanskrit_name": "Ashwagandha",
+    "common_name_en": "Winter Cherry / Indian Ginseng",
+    "common_name_hi": "Ashwagandha",
+    "common_name_sa": "Ashwagandha",
+    "family": "Solanaceae",
+    "habit": "Shrub (5ft)",
+    "common_names": {
+      "english": "Winter Cherry / Indian Ginseng",
+      "hindi": "Ashwagandha / Asgandh",
+      "sanskrit": "Ashwagandha / Hayagandha",
+      "kannada": "Ashwagandhi"
+    },
+    "parts_used": [
+      "Root",
+      "Leaves",
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Withanolides",
+      "Withaferin A",
+      "Somniferine",
+      "Withanone",
+      "Anaferine"
+    ],
+    "dosage": "3-6 gm (Churna / Powder)",
+    "ayurvedic_properties": {
+      "rasa": [
+        "Tikta (Bitter)",
+        "Kashaya (Astringent)",
+        "Madhura (Sweet)"
+      ],
+      "guna": [
+        "Laghu (Light)",
+        "Snigdha (Unctuous)"
+      ],
+      "virya": "Ushna (Hot potency)",
+      "vipaka": "Madhura (Sweet post-digestive outcome)",
+      "dosha_karma": "Balances Vata and Kapha, promotes Ojas"
+    },
+    "therapeutic_indications": [
+      "Stress & Anxiety",
+      "Fatigue & Debility",
+      "Insomnia",
+      "Arthritis",
+      "Cognitive Vitality"
+    ],
+    "symptoms": [
+      "stress",
+      "anxiety",
+      "fatigue",
+      "insomnia",
+      "weakness",
+      "joint pain",
+      "nervous exhaustion"
+    ],
+    "medicinal_uses": "Renowned adaptogenic Rasayana herb that reduces cortisol, enhances muscle strength, calms the nervous system, supports restorative sleep, and strengthens cellular vitality.",
+    "dosage_and_formulation": "Ashwagandharishta (15-30 ml), Ashwagandha Churna (3-6 g with warm milk), Ashwagandha Ghrita.",
+    "precautions": "Avoid during pregnancy or hyperthyroidism without professional Ayurvedic supervision.",
+    "body_systems": [
+      "Nervous System",
+      "Endocrine & Adrenal System",
+      "Musculoskeletal System",
+      "Reproductive System"
+    ]
   }
 }
